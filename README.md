@@ -10,6 +10,14 @@ The next step of this project is to turn that prototype into a compact, polished
 <img width="4000" height="3000" alt="IMG_20261003_094331" src="https://github.com/user-attachments/assets/0c25ad54-94c3-4188-bcd8-e18a55dd4039" />
 
 The prototype currently uses:
-Arduino nano usb type c ch340
-two pushbuttons
-50k ohm potentiometer 
+Arduino nano usb type c ch340,
+two pushbuttons,
+and a 50k ohm potentiometer 
+
+##Datasheets
+
+[CH340G.pdf](https://github.com/user-attachments/files/32988820/CH340G.pdf)
+[AMS1117 5v.pdf](https://github.com/user-attachments/files/32988819/AMS1117.5v.pdf)
+[ATmega326P.pdf](https://github.com/user-attachments/files/32988818/ATmega326P.pdf)
+
+
