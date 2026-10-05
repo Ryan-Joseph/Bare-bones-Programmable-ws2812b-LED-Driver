@@ -15,7 +15,7 @@
 | [PCB](https://cart.jlcpcb.com/shopcart/cart/) | main board | 1 | $4.00 | $4.00 | [JLCPCB](https://cart.jlcpcb.com/shopcart/cart/) |
 | [stencil](https://cart.jlcpcb.com/shopcart/cart/) | for putting components to the pcb | 1 | $7.22 | $7.22 | [JLCPCB](https://cart.jlcpcb.com/shopcart/cart/) |
 | **Parts subtotal** | — | — | — | **$11.22** | — |
-| **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$11.22** | — |
+| **Tax & shipping** | — | — | — | **$9.90** | — |
+| **Total** | — | — | — | **$21.12** | — |
 
-$18.78 left of the tier's funding.
+$8.88 left of the tier's funding.
