@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Warm-up | Tier 1 | 10h | 2 |
+| Warm-up | Tier 1 | 8h | 2 |
 
 ## Contents
 
@@ -33,7 +33,7 @@ Learned how to navigate the github repository cause it was my first time using i
 
 ### 2026-10-04 — Finally finished doing the schematic and the pcb is still in progress, but theres only a little bit to add like the ground planes and other connection. erc for the schematic showed no problems. will b
 
-**7h**
+**5h**
 
 Finally finished doing the schematic and the pcb is still in progress, but theres only a little bit to add like the ground planes and other connection. erc for the schematic showed no problems. will be testing the pcb once it is done.
 
